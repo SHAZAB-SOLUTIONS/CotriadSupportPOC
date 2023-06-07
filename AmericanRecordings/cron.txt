@@ -1,0 +1,27 @@
+# Morning
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 1
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 4
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 5
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 6
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 7
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 8
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 9
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 10
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 12
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 13
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 14
+0 10 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/morning/morningRecord.sh 15
+
+# Evening
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 1
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 4
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 5
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 6
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 7
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 8
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 9
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 10
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 12
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 13
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 14
+0 16 * * * /home/fueltech/Desktop/CotriadSupportPOC/AmericanRecordings/evening/eveningRecord.sh 15
