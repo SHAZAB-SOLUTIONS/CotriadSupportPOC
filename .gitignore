@@ -1,0 +1,5 @@
+cameraStreams/recordedStreams/*.*
+ShazabRecording/recordedStreams/*.*
+AmericanRecordings/morning/recordedStreams/*.*
+AmericanRecordings/evening/recordedStreams/*.*
+interProcessComm/shazabRandD/atrilabs-engine/
