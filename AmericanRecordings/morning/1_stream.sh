@@ -22,7 +22,7 @@ while true; do
     
         duration=3600 # 1 hour
 
-        currentTimeForName=$(date +"%D_%H:%M:%S")
+        currentTimeForName=$(date +"%Y-%m-%d_%H:%M:%S")
         output_file="$output_directory/$camera_name-$currentTimeForName.mp4"
 
         # Run ffmpeg command to record the camera stream
