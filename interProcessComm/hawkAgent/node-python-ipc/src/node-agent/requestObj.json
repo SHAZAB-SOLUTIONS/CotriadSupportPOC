@@ -1,0 +1,8 @@
+{
+    "pipe": "\\\\.\\pipe\\fuzail1",
+    "camera": {
+        "rtspLink": "rtsp://admin:Shazabadmin123@172.16.1.6:554",
+        "name": "Office Room 2"
+    },
+    "command": "Get Snapshot"
+}

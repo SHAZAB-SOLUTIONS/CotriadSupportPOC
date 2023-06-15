@@ -1,0 +1,10 @@
+node_modules/
+.vscode/
+node-ipc-python/src/snapshots/
+node-ipc-python/dist/
+ipc/
+ipc_wsl/
+node-ipc-python/src/python-agent/__pycache__
+node-ipc-python/src/python-agent/test.py
+package-lock.json
+node-ipc-python/src/*.txt
